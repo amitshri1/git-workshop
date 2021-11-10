@@ -1,4 +1,5 @@
-let a = 3;
-let b = 3;
-let c = 2
+let a = 13;
+let b = 31;
+let c = 21;
 console.log(a+b+c);
+
